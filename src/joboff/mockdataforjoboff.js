@@ -1,0 +1,47 @@
+export const rows = [
+    {
+        id:'1',
+        companyName:'google',
+        annualSalary:300000,
+        title:'junior developer',
+        workLocationArrangement:'bus',
+        requirements:'2 years',
+        benefits:'birthday leave',
+    },
+    {
+        id:'2',
+        companyName:'google',
+        annualSalary:300000,
+        title:'junior developer',
+        workLocationArrangement:'bus',
+        requirements:'2 years',
+        benefits:'birthday leave',
+    },
+    {
+        id:'3',
+        companyName:'google',
+        annualSalary:300000,
+        title:'junior developer',
+        workLocationArrangement:'bus',
+        requirements:'2 years',
+        benefits:'birthday leave',
+    },
+    {
+        id:'4',
+        companyName:'google',
+        annualSalary:300000,
+        title:'junior developer',
+        workLocationArrangement:'bus',
+        requirements:'2 years',
+        benefits:'birthday leave',
+    },
+    {
+        id:'5',
+        companyName:'google',
+        annualSalary:300000,
+        title:'junior developer',
+        workLocationArrangement:'bus',
+        requirements:'2 years',
+        benefits:'birthday leave',
+    }
+]
